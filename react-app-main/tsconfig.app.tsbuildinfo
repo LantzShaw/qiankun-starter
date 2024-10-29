@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/qiankun.ts","./src/vite-env.d.ts","./src/router/index.tsx","./src/views/dashboard/index.tsx","./src/views/notfound/index.tsx","./src/views/profile/index.tsx","./src/views/settings/index.tsx","./src/views/subappcontainer/index.tsx"],"version":"5.6.3"}

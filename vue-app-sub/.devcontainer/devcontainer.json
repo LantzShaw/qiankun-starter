@@ -1,0 +1,12 @@
+{
+  "name": "Node.js Dev Container",
+  "image": "node:21",
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}
